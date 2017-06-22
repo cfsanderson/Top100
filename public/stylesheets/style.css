@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 25px Helvetica, Arial, sans-serif;
+  background-color: #e4e4e4;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.my-class {
+  border: 1px solid rgb(226, 30, 30);
+}
+
+.genre-label{
+  margin: 1em;
+  display: inline-block;
+}
+
+.ellipsis{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ablum-cover{
+  max-height: 14em;
+}
